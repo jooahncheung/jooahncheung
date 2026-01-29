@@ -1,14 +1,15 @@
 # 🌐 Hi, I'm Jooahn
-### **Web Developer in Training | Building Northern Web**
+### **Web Developer | Founder of Northern Web**
 
-I am a self-taught developer currently in the "build and learn" phase. Through **Northern Web**, I’m focusing on turning code into real-world solutions for local businesses while documenting my growth every step of the way.
+I am a driven developer currently building a foundation in modern web technologies. I balance my time between learning new frameworks and running **Northern Web**, my initiative focused on creating digital solutions for local businesses.
 
 ---
 
-### 🚧 My Journey
-* 🔭 **Currently Building:** **Northern Web** – My initiative to help local shops get a digital presence.
-* 👨‍💻 **Recent Project:** [Cheung's Restaurant](https://github.com/jooahncheung/cheungs-restaurant) – A real-world site focused on SEO and mobile usability.
-* 📚 **Learning Path:** Mastering **HTML/CSS/JS** and learning the ropes of professional freelancing.
+### 🚀 My Current Focus
+* 🏗️ **Building:** Crafting clean, responsive websites through my project, **Northern Web**.
+* 📚 **Learning:** Deepening my knowledge of **JavaScript** and modern CSS layouts.
+* 🤖 **Innovation:** Leveraging AI assistants like **Gemini** to optimize my development workflow and problem-solving.
+* 📈 **Growth:** Transitioning from "work in progress" to a professional freelance career.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -21,15 +22,13 @@ I am a self-taught developer currently in the "build and learn" phase. Through *
 
 ---
 
-### 🧠 Current Focus
-- **Refining UI/UX:** Making sure my local business sites look as good as they perform.
-- **Workflow Efficiency:** Using AI tools like **Gemini** to debug and optimize my code.
-- **Real-World Experience:** Taking on projects that solve actual business problems.
+### 🧠 The Mission
+My goal is to bridge the gap between small businesses and the digital world. I believe in **performance-first** design and writing code that solves real-world problems. 
 
-> *"I’m a work in progress, but the websites I build are ready for work."*
+> *"Focused on progress, one line of code at a time."*
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 * **GitHub:** [@jooahncheung](https://github.com/jooahncheung)
-* Always open to feedback or tips for a junior dev!
+* **Status:** Open to collaboration and feedback on my latest projects!
