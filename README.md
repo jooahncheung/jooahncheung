@@ -1,12 +1,12 @@
 # 🌐 Hi, I'm Jooahn
-### **Web Developer | Founder of Northern Web**
+### **Aspriring Full-Stack Developer**
 
-I am a driven developer currently building a foundation in modern web technologies. I balance my time between learning new frameworks and running **Northern Web**, my initiative focused on creating digital solutions for local businesses.
+I am a driven developer currently building a foundation in modern web technologies. I balance my time between mastering my core languages in greater detail and applying those skills through the practice of building real-world projects.
 
 ---
 
 ### 🚀 My Current Focus
-* 🏗️ **Building:** Crafting clean, responsive websites through my project, **Northern Web**.
+* 🏗️ **Building:** Crafting clean, responsive websites through my project
 * 📚 **Learning:** Deepening my knowledge of **JavaScript** and modern CSS layouts.
 * 🤖 **Innovation:** Leveraging AI assistants like **Gemini** to optimize my development workflow and problem-solving.
 * 📈 **Growth:** Transitioning from "work in progress" to a professional freelance career.
